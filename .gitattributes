@@ -6,3 +6,7 @@
 *.html text eol=crlf
 *.md text eol=crlf
 *.lock text eol=crlf
+
+* linguist-vendored
+
+*.js linguist-vendored=false
